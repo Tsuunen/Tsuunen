@@ -1,4 +1,19 @@
-- 👋 Hi, I’m @Tsuunen
-- 👀 I’m interested in prommation in general
-- 🌱 I’m currently learning python UI and web developpement
-- 💞️ I’m looking to collaborate on everything
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
+<HACKED>
