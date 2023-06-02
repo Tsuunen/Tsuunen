@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, C, Vue, Nuxt, JS**
 
-- 👨‍💻 All of my projects are available at [github.com/Tsuunen](github.com/Tsuunen)
+- 👨‍💻 All of my projects are available at [github.com/Tsuunen](https://github.com/Tsuunen)
 
 - 💬 Ask me about **Whatever you want**
 
