@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Tsuunen</h1>
 <h3 align="center">A student loving programming</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsuunen" alt="tsuunen" /></a> </p>
-
 - 🔭 I’m currently working on [get better at programming](codewars.com)
 
 - 🌱 I’m currently learning **Python, C, Vue, Nuxt, JS**
