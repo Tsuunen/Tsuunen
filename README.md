@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Tsuunen</h1>
 <h3 align="center">A student loving programming</h3>
 
-- 🔭 I’m currently working on [get better at programming](codewars.com)
+- 🔭 I’m currently working on [getting better at programming](https://codewars.com)
 
-- 🌱 I’m currently learning **Python, C, Vue, Nuxt, JS**
+- 🌱 I’m currently learning **Python, C, Vue, Nuxt and JS**
 
 - 👨‍💻 All of my projects are available at [github.com/Tsuunen](https://github.com/Tsuunen)
 
