@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Whatever you want**
 
-- 📫 How to reach me **laforgue.remi@gmail.com**
+- 📫 How to reach me **laforgueremi@gmail.com**
 
 - ⚡ Fun fact **Vim > Emacs / VS Code 🤫**
 
